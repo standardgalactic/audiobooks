@@ -4,6 +4,7 @@ The Artilect War: Cosmists vs. Terrans
 
 By Dr. Hugo de Garis
 
+
 The "Artilect War" refers to a hypothetical future conflict between two factions or sides: humans and artificial intelligence-based entities known as "artilects."
 
 The concept of the Artilect War was popularized by futurist and computer scientist Dr. Hugo de Garis, who explored the potential risks and ethical considerations associated with advanced artificial intelligence (AI) development.
