@@ -26,11 +26,6 @@ Dr. de Garis argues that as AI technology progresses and artilects become more p
 
 The disagreements may revolve around issues such as control, ethics, and the potential threat posed by superintelligent machines.
 
-(Audio - Mac Say, Alex Voice)
-
-
-
-(GPT)
 
 The Artilect War scenario posits that these conflicts could escalate into a global-scale conflict, potentially involving militarized versions of artilects created for various purposes.
 
