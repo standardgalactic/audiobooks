@@ -39,3 +39,5 @@ It's important to note that the Artilect War is a speculative concept and has no
 The notion of the Artilect War raises important questions about the responsible development and governance of AI.
 
 It emphasizes the need for robust ethical frameworks, safeguards, and regulations to guide the development and deployment of AI systems, particularly as they approach or surpass human-level intelligence.
+
+(Audio by Alex Voice https://ss64.com/osx/say.html)
