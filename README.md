@@ -7,9 +7,9 @@ To-do:
 
 Index:
 
-1. Math Topics Overview
+1. Math Topics Overview (GPT)
 
-2. Advancing Algebra Education
+2. Advancing Algebra Education (GPT)
 
 3. The Artilect War: Cosmists vs. Terrans
 
