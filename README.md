@@ -14,7 +14,7 @@
 3. The Artilect War: Cosmists vs. Terrans
 
 
-## Review of The Artilect War: Cosmists vs. Terrans, by Dr. Hugo de Garis
+## Review of The Artilect War: Cosmists vs. Terrans, by Dr. Hugo de Garis (GPT)
 
 The "Artilect War" refers to a hypothetical future conflict between two factions or sides: humans and artificial intelligence-based entities known as "artilects."
 
@@ -25,6 +25,8 @@ The term "artilect" combines "artificial" and "intellect" to describe highly int
 Dr. de Garis argues that as AI technology progresses and artilects become more powerful, conflicts could arise between those who support and those who oppose their development.
 
 The disagreements may revolve around issues such as control, ethics, and the potential threat posed by superintelligent machines.
+
+
 
 (GPT)
 
