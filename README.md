@@ -26,6 +26,8 @@ Dr. de Garis argues that as AI technology progresses and artilects become more p
 
 The disagreements may revolve around issues such as control, ethics, and the potential threat posed by superintelligent machines.
 
+(Audio - Mac Say, Alex Voice)
+
 
 
 (GPT)
