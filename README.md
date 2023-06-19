@@ -7,11 +7,13 @@
 
 ## Index
 
-1. Math Topics Overview (GPT)
+1. Principia Metaphysica Dilucitatio (GPT & Claude)
 
-2. Advancing Algebra Education (GPT)
+2. Math Topics Overview (GPT)
 
-3. The Artilect War: Cosmists vs. Terrans
+3. Advancing Algebra Education (GPT)
+
+4. The Artilect War: Cosmists vs. Terrans
 
 
 ## Review of The Artilect War: Cosmists vs. Terrans, by Dr. Hugo de Garis (GPT)
