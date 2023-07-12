@@ -7,11 +7,13 @@
 
 ## Index
 
-1. Principia Metaphysica Dilucitatio (GPT & Claude)
+1. The Blue Pill (Monica Anderson [Experimental epistemology](https://experimental-epistemology.ai))
 
-2. Math Topics Overview (GPT)
+2. Principia Metaphysica Dilucitatio (GPT & Claude)
 
-3. Advancing Algebra Education (GPT)
+3. Math Topics Overview (GPT)
+
+4. Advancing Algebra Education (GPT)
 
 
 (Audio by Alex Voice https://ss64.com/osx/say.html)
